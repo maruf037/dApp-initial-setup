@@ -1,2 +1,2 @@
 # dApp-initial-setup
-This repo was created for a working startup project and can be replicate for future projects.
+This repo helps you to kickstart your dApp project and can be replicate for future projects.
